@@ -1,0 +1,15 @@
+//{
+ // "parent": "minecraft:block/cube_all",
+  //"textures":
+  //{
+ //   "all": "tutorialmod:block/alexandrite_block"
+  //}
+//}
+
+{
+  "parent": "block/cube_all",
+  "textures":
+  {
+  "all": "tutorialmod:block/alexandrite_block"
+  }
+}
